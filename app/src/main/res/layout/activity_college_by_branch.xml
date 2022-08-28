@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:padding="10dp"
+    tools:context=".CollegeByBranch"
+    android:background="@color/darkwhite"
+
+    >
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:text="@string/exam"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:background="@color/blue"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:elevation="5dp"
+
+        />
+
+    <Spinner
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:entries="@array/exams"
+        android:id="@+id/exams1"
+        android:background="@color/white"
+        android:textSize="17dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:elevation="5dp"
+
+
+        />
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:text="@string/category"
+        android:background="@color/blue"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:elevation="5dp"
+        />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:entries="@array/category"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/category1"
+        android:elevation="5dp"
+       />
+    <TextView
+        android:layout_height="40dp"
+        android:layout_width="160dp"
+        android:text="@string/rank"
+        android:background="@color/blue"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:elevation="5dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:hint="@string/enterrank"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:inputType="number"
+        android:id="@+id/meritRank1"
+        android:elevation="5dp"
+
+        />
+    <TextView
+        android:layout_height="40dp"
+        android:layout_width="160dp"
+        android:text="@string/collegetype"
+        android:background="@color/blue"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:elevation="5dp"
+        />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:entries="@array/collegetype"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/collegeType1"
+        android:elevation="5dp"
+        />
+    <TextView
+        android:layout_height="40dp"
+        android:layout_width="160dp"
+        android:gravity="center"
+        android:text="@string/seatpool"
+        android:background="@color/blue"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="5dp"
+        />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:entries="@array/seatpool"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/seatPool1"
+        android:elevation="5dp"
+        />
+
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="160dp"
+        android:text="@string/show"
+        android:textSize="17dp"
+        android:onClick="onClickShow1"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"
+
+        />
+
+</GridLayout>

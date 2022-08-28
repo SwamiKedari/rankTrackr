@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.srk.jossaseatpredictor">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon3"
+        android:label="JoSAA Seat Predictor"
+        android:roundIcon="@mipmap/icon3"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.JOSSASeatPredictor">
+        <activity
+            android:name=".splashScreen"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".aboutUs"
+            android:exported="true"
+            android:label="About Us.."
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CollegeDetails"
+            android:exported="true"
+            android:label="College Details"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AvailableCollegeByBranch"
+            android:exported="true"
+            android:label="Colleges"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ListOfBranches"
+            android:exported="true"
+            android:label="Available branches"
+            android:parentActivityName=".MainActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CollegeByBranch"
+            android:exported="true"
+            android:label="College Predictor"
+            android:parentActivityName=".BranchActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BranchActivity"
+            android:exported="true"
+            android:label="@string/branch"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CollegeActivity"
+            android:exported="true"
+            android:label="@string/college"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true"
+            android:label="Seat Predictor"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+
+        </activity>
+    </application>
+
+</manifest>

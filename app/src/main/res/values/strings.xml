@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">JOSSA Seat Predictor</string>
+    <string name="srk">Srk developers</string>
+    <string name="cutoff">CutOff</string>
+    <string name="college">Colleges</string>
+    <string name="branch">Branch</string>
+    <string name="share">Share App</string>
+    <string name="exam"> Exam Name</string>
+    <string name="category">Category</string>
+    <string name="rank">  Merit Rank</string>
+    <string name="collegetype">  College Type</string>
+    <string name="enterrank">Enter your rank here ..</string>
+    <string name="seatpool">  Seat Pool</string>
+    <string name="courses">Courses</string>
+    <string name="course">Courses (8 Selected)</string>
+    <string name="sortby">Sort By </string>
+    <string name="show">Show</string>
+    <string name="CSE">CSE</string>
+    <string name="Engineering_and_Computational_Mechanics">Engineering and Computational Mechanics</string>
+    <string name="IT">IT</string>
+    <string name="EC">EC</string>
+    <string name="Electrical">Electrical</string>
+    <string name="Mechanical">Mechanical</string>
+    <string name="Civil">Civil</string>
+    <string name="AeroSpace">AeroSpace</string>
+    <string name="Agri">Agri</string>
+    <string name="Architecture">Architecture</string>
+    <string name="Bio_Engineering">Bio Engineering</string>
+    <string name="Bio_Medical">Bio Medical</string>
+    <string name="Bio_Chemical">Bio Chemical</string>
+    <string name="Biological">Biological</string>
+    <string name="BioTechnology">BioTechnology</string>
+    <string name="Ceramic">Ceramic</string>
+    <string name="Chemical">Chemical</string>
+    <string name="Chemistry">Chemistry</string>
+    <string name="Earth_Sciences">Earth Sciences</string>
+    <string name="Economics">Economics</string>
+    <string name="Electronics">Electronics</string>
+    <string name="Energy_Engineering">Energy Engineering</string>
+    <string name="Engineering_Design">Engineering Design</string>
+    <string name="Engineering_Science">Engineering Science</string>
+    <string name="Enviromental">Enviromental</string>
+    <string name="Food_Tech">Food Tech</string>
+    <string name="Geological">Geological</string>
+    <string name="Geology">Geology</string>
+    <string name="Geophysics">Geophysics</string>
+    <string name="Industrial">Industrial</string>
+    <string name="Instrumentation">Instrumentation</string>
+    <string name="Life_Science">Life Science</string>
+    <string name="Maths">Maths</string>
+    <string name="Metallurgical">Metallurgical</string>
+    <string name="Mineral_Engineering">Mineral Engineering</string>
+    <string name="Mining">Mining</string>
+    <string name="Petroleaum">Petroleaum</string>
+    <string name="Pharmaceutical">Pharmaceutical</string>
+    <string name="Physics">Physics</string>
+    <string name="Planning">Planning</string>
+    <string name="Production">Production</string>
+    <string name="Textile">Textile</string>
+    <string name="Material_Engineering">Material Engineering</string>
+    <string name="Developer">About Us</string>
+
+    <string-array name="exams">
+        <item>JEE ADVANCED </item>
+        <item>JEE MAINS (paper 1)</item>
+        <item>JEE MAINS (paper 2)</item>
+
+    </string-array>
+
+    <string-array name="category">
+        <item>OPEN</item>
+        <item>OBC-NCL</item>
+        <item>EWS</item>
+        <item>SC</item>
+        <item>ST</item>
+        <item>OPEN (PwD)</item>
+        <item>OBC-NCL (PwD)</item>
+        <item>EWS (PwD)</item>
+        <item>SC (PwD)</item>
+        <item>ST (PwD)</item>
+
+    </string-array>
+
+    <string-array name="collegetype">
+        <item>All</item>
+        <item>IITs</item>
+        <item>NITs</item>
+        <item>IIITs</item>
+        <item>GFTIs and Other</item>
+    </string-array>
+
+    <string-array name="seatpool">
+        <item>Gender-Neutral</item>
+        <item>Female-only (including Supernumerary)</item>
+    </string-array>
+    <string-array name="sortby">
+        <item>All India Rank</item>
+        <item>Branch</item>
+        <item>College</item>
+    </string-array>
+</resources>

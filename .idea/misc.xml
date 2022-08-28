@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2605" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2605" />
+        <entry key="app/src/main/res/drawable/sharebutton.xml" value="0.2475" />
+        <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_available_college_by_branch.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_branch.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_college_by_branch.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_college_details.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_colleges.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_list_of_branches.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/cardview1.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/cardview2.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/cardview3.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/recyclerview1.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/menu/menu1.xml" value="0.3182291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

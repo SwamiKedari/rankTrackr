@@ -28,9 +28,9 @@ and GFTIs . Clicking on a particular college will help you navigate to the detai
 ## 3) BRANCH :
 Suppose a student has already decided that he will only join a particular branch eg Civil Engineering , He can use this section of the app to check the cutoffs of only a single branch . When the user clicks on the "BRANCH" button , he/she will be presented with the list of branches . He/She will have to select the branch he/she is interested in . The user can use the search button at the top to search for a particular branch . After selecting the branch , the app will navigate to another activity where the user must enter the information like the Exam name , Category etc . Once he/she enters the information and clicks on SHOW , he/she will be presented will the sorted list of colleges with the opening ranks and the closing ranks . The AI , OS , HS etc shows the ALL INDIA cutoff , Outer State cutoff , Home state cutoff respectively . There is a search button in this activity too , so that the user can access the college easily .
 <p>
-    <img src="https://user-images.githubusercontent.com/91141709/189871780-90410529-59b8-47f0-86a2-436b4d076df4.jpg" width="300">&emsp;
-     <img src="https://user-images.githubusercontent.com/91141709/189871831-02d9c728-3d8e-43de-8f9c-2c1407b31b5a.jpg" width="300">&emsp;
-      <img src="https://user-images.githubusercontent.com/91141709/189871827-e8fd2e31-f1d0-44b1-b206-0b263b85e0f9.jpg" width="300">&emsp;
+    <img src="https://user-images.githubusercontent.com/91141709/189871780-90410529-59b8-47f0-86a2-436b4d076df4.jpg" width="245">&emsp;
+     <img src="https://user-images.githubusercontent.com/91141709/189871831-02d9c728-3d8e-43de-8f9c-2c1407b31b5a.jpg" width="245">&emsp;
+      <img src="https://user-images.githubusercontent.com/91141709/189871827-e8fd2e31-f1d0-44b1-b206-0b263b85e0f9.jpg" width="245">&emsp;
 </p>
 <br>
 

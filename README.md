@@ -1,7 +1,7 @@
 # JoSAA_Android_App
 An Android Application that helps the students in the JoSAA counselling 
 
-# JoSAA Seat Predictor App helps the JEE students by making the last year college cutoffs for each branch easily accessible .
+## This app helps the JEE Mains / JEE Advanced students in their JoSAA counseling by providing information about the past years closing ranks for all the colleges that come under JoSAA counseling, including IITs / NITs / IIITs / GFTIs. It is helpful for both B.Tech. and B.Arch. aspirants.
 JEE Ranks at your finger tips 
 
 If the student has qualified JEE Mains or JEE Advanced , He can compare his rank with last year opening and closing ranks to check the best options for him/her .
